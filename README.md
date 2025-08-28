@@ -9,9 +9,20 @@
 'feature/lab3_Calvache_Guayazan_Cuitiva_2025-2'
 
 ---
+# Parte 1 - Preparación del espacio de trabajo
+Una vez ya hemos creado el repositorio, y que los 3 integrantes
+ya hayamos clonado el repositorio localmente, creamos la rama de feature para 
+empezar a crear el proyecto Maven con las siguientes configuraciones:
 
-![img.png](img.png)
+![img.png](docs/imagenes/img.png)
 
+También entramos al archivo xml para editar el pom y colocar las dependencias que faltan:
+
+![img_1.png](docs/imagenes/img_1.png)
+
+También ponemos un nuevo build para jacoco
+
+![img_2.png](docs/imagenes/img_2.png)
 
 #### Preguntas 
 
